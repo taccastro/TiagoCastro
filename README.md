@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 Trabalho como desenvolvedor de software desde 2012 sou graduado em Ciência da Computação e tenho um MBA em Arquitetura na Plataforma .NET pela FIAP.<br><br>C# | .NET | CORE | MVC | Web API | Micro serviços <br>SQL | ADO.NET | Entity Framework | Dapper | SISS ETL<br>Azure CI/ CD | RabbitMQ <br><br>Experiência com metodologia ágil (Scrum / Kanban)<br>
 
 
