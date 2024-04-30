@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-Desenvolvedor .NET desde 2012. Sou graduado em Ciência da Computação e possuo um MBA em Arquitetura na Plataforma .NET pela FIAP.<br><br>C# | .NET | CORE | MVC | Web API | Micro serviços <br>SQL | ADO.NET | Entity Framework | Dapper | SISS ETL<br>Azure CI/ CD | RabbitMQ <br><br>Experiência com metodologia ágil (Scrum / Kanban)<br>
+Desenvolvedor .NET desde 2012. Sou graduado em Ciência da Computação e possuo um MBA em Arquitetura na Plataforma .NET pela FIAP.<br><br>C# | .NET | CORE | MVC | Web API | Micro serviços <br>SQL | ADO.NET | Entity Framework | Dapper | SISS ETL<br>Azure CI/ CD | RabbitMQ | ServiceBus | Kafta <br><br>Experiência com metodologia ágil (Scrum / Kanban)<br>
 
 
 ## 🌐 Socials:
